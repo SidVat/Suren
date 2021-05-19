@@ -34,7 +34,7 @@ where I have completed my Bachelor of Engineering(B.E) in Computer Science and g
 
 <h2> Find me around the web 🌎: </h2><br>
 
-- My Portfolio-<a href="https://github.com/SidVat/Suren" target="_blank">@Website</a><br>
+- My Portfolio-<a href="https://sidvat.github.io/Sidvat/" target="_blank">@Website</a><br>
 - Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/sureenddar-7b5a05199/" target="_blank">@LinkedIn</a><br>
 
 
